@@ -16,14 +16,23 @@ body {
     background-size: cover;
 }
 
-.main {
+.main_container {
+    margin: 0 auto;
+    padding-top: 60px;
+    width: 1450px;
+}
+
+.header {
     display: flex;
     justify-content: center;
-    margin: 0 auto;
-    padding: 60px;
-    width: 1450px;
+    width: 100%;
+    height: 90px;
 }
 
 .logo_image {
     height: 90px;
+}
+
+.main_content {
+    
 }
