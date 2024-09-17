@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, p {
 
 .main_content {
     margin: 0 auto;
-    margin-top: 190px;
+    margin-top: 170px;
 }
 
 .main_suptitle_container {
@@ -79,4 +79,12 @@ a:hover {
     border-color: white;
     color: white;
     transition: 0.5s;
+}
+
+.footer {
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 240px;
+    font-size: 16px;
+    color: #545454;
 }
